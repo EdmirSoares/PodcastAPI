@@ -1,0 +1,23 @@
+{
+    "name": "podcastapi",
+    "version": "1.0.0",
+    "main": "server.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "dist": "tsup src",
+        "dev": "cls&& tsx src/server.ts",
+        "watch": "tsx watch src/server.ts",
+        "start:dist": "npm run dist && node dist/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "tsup": "^8.3.5",
+        "tsx": "^4.19.2",
+        "typescript": "^5.7.3"
+    }
+}
