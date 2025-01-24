@@ -6,5 +6,29 @@
         "cover": "https://i.ytimg.com/vi/OjBUUAOATVQ/maxresdefault.jpg",
         "categories": ["automobilismo", "esporte"],
         "link": "https://www.youtube.com/watch?v=OjBUUAOATVQ"
+    },
+    {
+        "podcastName": "flowgames",
+        "episode": "NINTENDO SWITCH 2 REVELADO - #FGN #flowgames",
+        "videoId": "SjMFPP2h5Wk",
+        "cover": "https://i.ytimg.com/vi/SjMFPP2h5Wk/maxresdefault.jpg",
+        "categories": ["jogos", "geek"],
+        "link": "https://www.youtube.com/watch?v=SjMFPP2h5Wk"
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "Dra. ANA BEATRIZ - Podpah #849",
+        "videoId": "7QADZKOlUiI",
+        "cover": "https://i.ytimg.com/vi/7QADZKOlUiI/maxresdefault.jpg",
+        "categories": ["psicologia", "saúde"],
+        "link": "https://www.youtube.com/watch?v=7QADZKOlUiI"
+    },
+    {
+        "podcastName": "flow",
+        "episode": "MARCO ANTONIO VILLA - Flow #419",
+        "videoId": "Mr7ictmmsxY",
+        "cover": "https://i.ytimg.com/vi/Mr7ictmmsxY/maxresdefault.jpg",
+        "categories": ["política", "história"],
+        "link": "https://www.youtube.com/watch?v=Mr7ictmmsxY"
     }
 ]
