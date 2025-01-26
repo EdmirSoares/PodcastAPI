@@ -1,6 +1,7 @@
 # Podcast Manager API <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Studio Microphone" width="25" height="25" />
 
-Aplicação para simular o gerenciamento de episódios de podcasts separados por categoria.
+*Aplicação em desenvolvimento! WIP</br>*
+Simula o gerenciamento de episódios de podcasts separados por categoria.
 
 ## Tecnologias Usadas
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
